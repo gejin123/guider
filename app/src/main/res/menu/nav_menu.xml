@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <!--<item-->
+            <!--android:id="@+id/mydownload"-->
+            <!--android:icon="@drawable/ic_file_download"-->
+            <!--android:title="我的下载" />-->
+        <!--<item-->
+            <!--android:id="@+id/myyouji"-->
+            <!--android:icon="@drawable/ic_myyouji"-->
+            <!--android:title="我的游记" />-->
+        <!--<item-->
+            <!--android:id="@+id/setting"-->
+            <!--android:icon="@drawable/ic_settings_black_24dp"-->
+            <!--android:title="软件设置" />-->
+        <!--<item-->
+            <!--android:id="@+id/reactiokey"-->
+            <!--android:icon="@drawable/ic_reactionkey"-->
+            <!--android:title="激活码管理" />-->
+        <item
+            android:id="@+id/account_man"
+            android:icon="@drawable/ic_menu_share"
+            android:title="账户管理" />
+        <item
+            android:id="@+id/anothersite"
+            android:icon="@drawable/ic_anothersite"
+            android:title="全部景区" />
+        <!--<item-->
+            <!--android:id="@+id/feedback"-->
+            <!--android:icon="@drawable/ic_feedback"-->
+            <!--android:title="用户反馈" />-->
+        <!--<item-->
+            <!--android:id="@+id/bill"-->
+            <!--android:icon="@drawable/ic_bill"-->
+            <!--android:title="免责条款" />-->
+        <item
+            android:id="@+id/logout"
+            android:layout_width="match_parent"
+            android:icon="@drawable/ic_menu_logout"
+            android:title="注销" />
+        <item
+            android:id="@+id/aboutus"
+            android:icon="@drawable/ic_aboutus"
+            android:title="关于我们" />
+
+    </group>
+</menu>

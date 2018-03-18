@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<litepal>
+    <dbname value="Guider"></dbname>
+    <version value="8"></version>
+    <list>
+        <mapping class="cn.edu.buct.zxxe.beijingguider.Scene"></mapping>
+        <mapping class="cn.edu.buct.zxxe.beijingguider.Account"></mapping>
+        <mapping class="cn.edu.buct.zxxe.beijingguider.Route"></mapping>
+    </list>
+</litepal>
